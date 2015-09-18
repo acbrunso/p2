@@ -2,7 +2,7 @@
 
 
   <div id="section">
-    <label for="word"><?php echo $pWord ?></label>
+    <label><?php echo $pWord ?></label>
     <form name="input" action="index.php" method="get">
       <p># of words
         <select name="numOfWords">
