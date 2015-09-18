@@ -58,6 +58,10 @@ li {
 
 }
 
+a:hover, a:visited:hover {
+    background-color: #3388FF;
+}
+
 a:link, a:visited {
     width: 120px;
     font-weight: bold;
