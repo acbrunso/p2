@@ -1,4 +1,4 @@
 <div>
-  &copy 2015
+  &copy; 2015
 
 </div>

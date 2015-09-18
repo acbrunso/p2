@@ -27,7 +27,7 @@
           <option value="3"   <?php if($numNums == "3") { print "selected"; } ?> >3</option>
         </select>
       </p>
-      </br>
+      <br>
       <input type="submit" value="Submit">
     </form>
   </div>
