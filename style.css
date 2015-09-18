@@ -44,11 +44,33 @@ label {
   vertical-align: center;
 
 }
-img {
-  max-width: 95%;
-  height: auto;
-  width: auto\9;
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
 }
+
+li {
+  display: inline;
+
+}
+
+a:link, a:visited {
+    width: 120px;
+    font-weight: bold;
+    color: #001F4C;
+    background-color: lightblue;
+    font-size: 40px;
+    text-align: center;
+    padding: 4px;
+    text-transform: uppercase;
+
+}
+
+
 h2 {
   font-size: 40px;
 }
