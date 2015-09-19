@@ -7,10 +7,11 @@
   </div>
 
   <div id="nav">
+    <span class="top">
     <ul>
-      <span class="top">
       <li><a href="index.php?thePage=home">Home</a></li>
       <li><a href="index.php?thePage=about">About</a></li>
     </span>
     </ul>
+    <span class="top">
   </div>
