@@ -4,10 +4,8 @@
   echo strlen($currentPage);
 
   if($currentPage!="/index.php" && $currentPage!="/" ) {
-    /*
     header("Location: http://p2.anthonybrunson.me");
-    die();*/
-    echo "in if";
+    die();
   }
 
   echo $currentPage
