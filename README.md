@@ -4,6 +4,9 @@
 ## Live URL
 <http://p2.anthonybrunson.me>
 
+## Screencast link
+<http://screencast.com/t/t2wJglgp710>
+
 ## Description
 This is project 2 which is used to allow users to select an xkdc style
 random password.  There can be up to 3 words, 3 special characters, and
