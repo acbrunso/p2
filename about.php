@@ -1,4 +1,4 @@
-
+<?php include 'check.php' ?>
 
 <div id="section">
 
