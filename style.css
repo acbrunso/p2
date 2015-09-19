@@ -4,8 +4,9 @@
   margin-right: 60px;
   margin-top: 60px;
 }
+
 #header {
-  font-size: 22px;
+  font-size: 3vw;
   float: center;
   text-align: center;
   margin-left: auto;
@@ -38,7 +39,7 @@
 
 label {
 
-  font-size: 60px;
+  font-size: 5vw;
   background-color: grey;
   border-radius: 5px;
   vertical-align: center;
@@ -58,11 +59,11 @@ li {
 
 }
 
-a:hover, a:visited:hover {
+.top a:hover, .top a:visited:hover {
     background-color: #3388FF;
 }
 
-a:link, a:visited {
+.top a:link, .top a:visited {
     width: 120px;
     font-weight: bold;
     color: #001F4C;
@@ -74,6 +75,11 @@ a:link, a:visited {
 
 }
 
+.body2 a:hover, .body2 a:visited:hover {
+}
+
+.body2 a:link, .body2 a:visited {
+}
 
 h2 {
   font-size: 40px;

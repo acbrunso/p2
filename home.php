@@ -1,7 +1,15 @@
 
 
 
+
   <div id="section">
+    <p>
+    Generate a random password consisting of up to three common words!
+    Using phrases instead of uncommon gibberish words can be harder to guess.
+    Common words are easier to remember, so give it a try by selecting
+    the number of words you would like in your password, the number of symbols,
+    and the number of numbers.
+    </p>
     <label><?php echo $pWord ?></label>
     <form name="input" action="index.php" method="get">
       <p># of words

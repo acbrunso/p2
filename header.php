@@ -8,7 +8,9 @@
 
   <div id="nav">
     <ul>
+      <span class="top">
       <li><a href="index.php?thePage=home">Home</a></li>
       <li><a href="index.php?thePage=about">About</a></li>
+    </span>
     </ul>
   </div>
